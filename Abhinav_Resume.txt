@@ -4,7 +4,7 @@
 % Version 1.2 (16/9/2014)
 %
 % Original author:
-% Debarghya Das (http://debarghyadas.com)
+% Abhinav Asthana
 %
 % Original repository:
 % https://github.com/deedydas/Deedy-Resume
