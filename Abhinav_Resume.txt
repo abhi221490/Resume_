@@ -7,7 +7,7 @@
 % Abhinav Asthana
 %
 % Original repository:
-% https://github.com/deedydas/Deedy-Resume
+% https://github.com/abhi221490/Resume_
 %
 % IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
 %
