@@ -214,8 +214,8 @@ Top {\bf17.28 \%} {\bf400+} questions on {\bf Leetcode} | Max rating: {\bf1640}
 
 \section{Skills}
 
-\item {\bf Languages:}C, C++,JavaScript, HTML, CSS\\ 
-\item {\bf Tools and Databases:}Git, GitHub, VScode, MongoDB\\ 
+\item {\bf Languages:}C, C++, C#, Java, JavaScript, HTML, CSS\\ 
+\item {\bf Tools and Databases:}Git, GitHub, VScode, MongoDB, SQL\\ 
 \item {\bf Lib/Frameworks:}Node, React, Express,Tailwind CSS \\ 
 \item {\bf Others:} Data Structures, Algorithms, Object-Oriented Programming, DBMS , Operating Systems , Computer Networks
  
